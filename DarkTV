@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id= tvg-logo=" ", tvg-logo=" "  group-title="INFANTIL " 
-http://supersonictv.live:8080/812493/376688/85036
+/play.php?categoria=live&amp;canal=gloob
 #EXTINF:-1 tvg-id= tvg-logo=" ", tvg-logo=" "  group-title=" " 
 #EXTINF:-1 tvg-id= tvg-logo=" ", tvg-logo=" "  group-title=" " 
 #EXTINF:-1 tvg-id= tvg-logo=" ", tvg-logo=" "  group-title=" " 
