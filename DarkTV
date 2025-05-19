@@ -1,6 +1,6 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id= tvg-logo=" ", tvg-logo=" "  group-title="INFANTIL " 
-https://reidoscanais.tv/embed/?id=nickelodeon
+#EXTINF:-1 tvg-id= tvg-logo=" ", tvg-logo=" "  group-title="FILMES " 
+https://cdn.vod-cinevs.com/f/72%20Horas%20Depois_754219.mp4
 #EXTINF:-1 tvg-id= tvg-logo=" ", tvg-logo=" "  group-title=" " 
 #EXTINF:-1 tvg-id= tvg-logo=" ", tvg-logo=" "  group-title=" " 
 #EXTINF:-1 tvg-id= tvg-logo=" ", tvg-logo=" "  group-title=" " 
